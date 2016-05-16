@@ -1,0 +1,8 @@
+C:\Users\Christian\Documents\GitHub\RoseHulmansFiveYearPlan\CopyFuzz\bin\Debug\CopyFuzz.pdb
+C:\Users\Christian\Documents\GitHub\RoseHulmansFiveYearPlan\CopyFuzz\obj\Debug\CopyFuzz.csprojResolveAssemblyReference.cache
+C:\Users\Christian\Documents\GitHub\RoseHulmansFiveYearPlan\CopyFuzz\obj\Debug\CopyFuzz.pdb
+C:\Users\Christian\Documents\GitHub\RoseHulmansFiveYearPlan\CopyFuzz\obj\Debug\CopyFuzz.Properties.Resources.resources
+C:\Users\Christian\Documents\GitHub\RoseHulmansFiveYearPlan\CopyFuzz\obj\Debug\CopyFuzz.csproj.GenerateResource.Cache
+C:\Users\Christian\Documents\GitHub\RoseHulmansFiveYearPlan\CopyFuzz\bin\Debug\CopyFuzz.dll.config
+C:\Users\Christian\Documents\GitHub\RoseHulmansFiveYearPlan\CopyFuzz\bin\Debug\CopyFuzz.dll
+C:\Users\Christian\Documents\GitHub\RoseHulmansFiveYearPlan\CopyFuzz\obj\Debug\CopyFuzz.dll
